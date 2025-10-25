@@ -18,7 +18,8 @@
 ---
 
 ### 💼 Projects I've Worked On  
-  
+
+🔹 **[Leftover Love](https://github.com/your-repo)** — A food donation system connecting donors and NGOs to reduce food waste.  
 🔹 **[Job Portal (MERN Stack)](https://github.com/your-repo)** — A platform for job seekers with dashboard, analytics, and saved/applied job features.  
 🔹 **[SML Security](https://github.com/Preethamhj/smI-security-.git)** — Network security and monitoring system using Flutter & Node.js.  
 🔹 **[Logistics & Inventory System](https://github.com/your-repo)** — A smart logistics app for tracking items and managing shipments.  
@@ -69,6 +70,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratheeksha29-20" alt="GitHub Streak" />
 </p>
+
+---
+<img src="https://www.iconsdb.com/black-icons/github-10-icon.html" > </img>
 
 ---
 
